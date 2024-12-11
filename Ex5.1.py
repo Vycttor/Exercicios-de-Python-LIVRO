@@ -9,5 +9,7 @@ cont = 1 # Variavel contador
 
 while cont <= 100:
     sleep(1)
-    print(cont, end =' ')
+    print(cont)
+    #print(cont, end =' ')
     cont += 1
+
