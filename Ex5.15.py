@@ -11,3 +11,4 @@ Código Preço
 Seu programa deve exibir o total das compras depois que o usuário digitar 0. Qualquer outro código deve gerar a messagem de erro "Código invalido"
 
 '''
+
