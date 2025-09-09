@@ -4,3 +4,17 @@ Ex 5.9. Escreva um programa que leia dois números. Imprima a divisão inteira d
 
 numero_1 = int(input('Digite o primeiro número: '))
 numero_2 = int(input('Digite o segundo número: '))
+
+
+cont = 0
+
+while numero_1 >= 0:
+    numero_1 -= numero_2
+    cont += 1
+
+resultado = cont -1
+print(resultado) # Apenas imprime a divisão inteira
+
+
+
+
